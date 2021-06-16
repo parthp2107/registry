@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Schema Modeling](README.md)
+* [API Design](api-design.md)
+* [Database Design](database-design.md)
 
